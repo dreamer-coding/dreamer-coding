@@ -1,24 +1,25 @@
 - 👋 Hi, I’m Michael Brockus you can call me Mike.
 
-I'm a Software Engineer, Photographer, Architect, and Technical Writer.
+## About
 
+I am a software developer that aspires to build unique applications,
+tools, libraries, games, pretty much anything else as well. I have
+found that solving puzzles is my forte as I love to solve problems
+and provide solutions that may be novel, functional, and streamlined.
 
-For a long time, I always believed there is nothing more painful than not
-asking questions because when you don’t ask a question or pretend like you
-know everything you’re only hurting yourself in the long run making yourself
-incapable of absorbing new information. It doesn’t matter whether you have
-been doing development for years or just starting and just happened to be
-afraid the experts looking down upon your stupid questions the important
-thing is that no one can know everything in all of the universe so be sure
-to ask questions and learn about things as you go.
+I am familiar with a vast range of programming languages and employ
+them on the spot; however, the most common programming languages you
+will find me using most often is (`c`, `c++`, `python`, `kotlin`, `java`). I
+seem to have an affinity for learning new skills often.
 
-Fun fact there are no stupid questions so ask away and feel no shame. Asking
-questions is what makes people successful not only in software development
-but in any career path they choose.
+In regards to platform preference, I don’t really depend on a particular
+platform since I am fine with developing on **Mac OS**, **Windows 10**, and any
+**Linux** variant. My favorite of them all would have to the **Raspberry PI**,
+I like them for being robust, reasonably efficient, and being able to
+fit in small places.
 
-I like writing about technical stuff usually but sometimes I write something
-that both intuitively deep and meaningful. Learning through experimental work.
-Doesn't hurt to try new things.
+I also do photography which is helpful because I can create assets for
+any of my software projects and it is relaxing.
 
 
 ## Contact me
