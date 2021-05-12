@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelbrockus
+- 👋 Hi, I’m Michael Brockus you can call me Mike.
 
 I'm a Software Engineer, Photographer, Architect, and Technical Writer.
 
