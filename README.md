@@ -2,21 +2,22 @@
 
 ## About
 
-I am a software developer that aspires to build unique applications,
+I am software developer that aspires to build unique applications,
 tools, libraries, games, pretty much anything else as well. I have
 found that solving puzzles is my forte as I love to solve problems
 and provide solutions that may be novel, functional, and streamlined.
 
 I am familiar with a vast range of programming languages and employ
 them on the spot; however, the most common programming languages you
-will find me using most often is (`c`, `c++`, `python`, `kotlin`, `java`). I
-seem to have an affinity for learning new skills often.
+will find me using most often is (`c`, `c++`, `cs`, `python`, `kotlin`,
+`java`). I seem to have an affinity for learning new skills often as I
+do sharing with others.
 
 In regards to platform preference, I don’t really depend on a particular
-platform since I am fine with developing on **Mac OS**, **Windows 10**, and any
-**Linux** variant. My favorite of them all would have to the **Raspberry PI**,
-I like them for being robust, reasonably efficient, and being able to
-fit in small places.
+platform since I am fine with developing on **Mac OS**, **Windows 10**,
+**Chromebook**, and any **Linux** variant. My favorite of them all would
+have to the **Raspberry PI**, I like them for being robust, reasonably
+efficient, and being able to fit in small places.
 
 I also do photography which is helpful because I can create assets for
 any of my software projects and it is relaxing.
