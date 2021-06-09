@@ -23,15 +23,6 @@ I also do photography which is helpful because I can create assets for
 any of my software projects and it is relaxing.
 
 
-## Join the developer community
-
-* * *
-
-I have built a community in which you can keep up to date on the latest
-features and news. Simply done by joining [Amphibian Projects](https://www.reddit.com/r/amphibian_projects/)
-subreddit on reddit.
-
-
 ## Contact me
 
 * * *
