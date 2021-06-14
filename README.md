@@ -2,9 +2,11 @@
 
 ## About
 
-I am software developer that aspires to build unique applications,
-tools, libraries, games, pretty much anything else as well. I have
-found that solving puzzles is my forte as I love to solve problems
+I work at a *Amazon fulfillment center* in the packer department
+packing boxes for shipment, but do have plans to move up in life by
+becoming a software developer for Amazon. Also aspires to build unique
+applications, tools, libraries, games, pretty much anything else as well.
+I have found that solving puzzles is my forte as I love to solve problems
 and provide solutions that may be novel, functional, and streamlined.
 
 I am familiar with a vast range of programming languages and employ
