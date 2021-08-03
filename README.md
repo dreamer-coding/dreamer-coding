@@ -2,27 +2,20 @@
 
 ## About
 
-I work at a *Amazon fulfillment center* in the packer department
-packing boxes for shipment, but do have plans to move up in life by
-becoming a software developer for Amazon. Also aspires to build unique
-applications, tools, libraries, games, pretty much anything else as well.
-I have found that solving puzzles is my forte as I love to solve problems
-and provide solutions that may be novel, functional, and streamlined.
+I work at an Amazon fulfillment center packing boxes for shipment and water
+spidering supplies to all of the packers, and when I'm not doing that I'm
+working on my software development since I aspire to build unique applications,
+tools, libraries, games, discord bots, pretty much anything else as well. I
+have found that solving puzzles is my forte as I love to solve problems and
+provide solutions that may be novel, functional, and streamlined.
 
-I am familiar with a vast range of programming languages and employ
-them on the spot; however, the most common programming languages you
-will find me using most often is (`c`, `c++`, `cs`, `python`, `kotlin`,
-`java`). I seem to have an affinity for learning new skills often as I
-do sharing with others.
-
-In regards to platform preference, I don’t really depend on a particular
-platform since I am fine with developing on **Mac OS**, **Windows 10**,
-**Chromebook**, and any **Linux** variant. My favorite of them all would
-have to the **Raspberry PI**, I like them for being robust, reasonably
-efficient, and being able to fit in small places.
-
-I also do photography which is helpful because I can create assets for
-any of my software projects and it is relaxing.
+I am familiar with a vast range of programming languages and employ them on the
+spot; however, the most common programming languages you will find me using most
+often is (`c`, `c++`, `python`, `kotlin`, `java`). In regards to platform
+preference, I don’t depend on a particular platform since I am fine with developing
+on Mac OS, Windows 10, Chromebook, and any Linux variant. My favorite of them all
+would have to be the Raspberry PI, I like them for being robust, reasonably efficient,
+and being able to fit in small places.
 
 
 ## Contact me
