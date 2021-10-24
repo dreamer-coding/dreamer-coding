@@ -2,45 +2,26 @@
 
 ## About
 
-I work at an Amazon fulfillment center as a Amazon learning
-ambassador where I am maintaining expert-level knowledge in
-all production departments; evaluate and improves processes
-within work areas; refine learning tools and techniques across
-the fulfillment center; assists in measuring the effectiveness
-of learning; measure impact of development efforts; improve
-associates’ job-related skills. As a warehouse associate I am
-packing boxes for shipment, sorting items into chutes, clearing
-jammed conveyor belts, and water spidering supplies to all of
+I work at an Amazon fulfillment center as a Amazon learning ambassador where I am maintaining expert-level knowledge in
+all production departments; evaluate and improves processes within work areas; refine learning tools and techniques across the fulfillment center; assists in measuring the effectiveness of learning; measure impact of development efforts; improve associates’ job-related skills. As a warehouse associate I am packing boxes for shipment, sorting items into chutes, clearing jammed conveyor belts, and water spidering supplies to all of
 the packers.
 
-When I'm not doing that I'm working on my software development
-since I aspire to build unique applications, tools, libraries,
-pretty much anything else as well. I have found that solving
-puzzles is my forte as I love to solve problems and provide
-solutions that may be novel, functional, and streamlined.
+When I'm not doing that I'm working on my software development since I aspire to build unique applications, tools, libraries,
+pretty much anything else as well. I have found that solving puzzles is my forte as I love to solve problems and provide solutions that may be novel, functional, and streamlined.
 
-I am familiar with a vast range of programming languages and
-employ them on the spot; however, the most common programming
-languages you will find me using most often is (`c`, `c++`,
-`python`, `kotlin`, `java`). In regards to platform preference,
-I don’t depend on a particular platform since I am fine with
-developing on Mac OS, Windows 10, Chromebook, and any Linux
-variant. My favorite of them all would have to be the
-Raspberry PI, I like them for being robust, reasonably efficient,
-and being able to fit in small places.
+I am familiar with a vast range of programming languages and employ them on the spot; however, the most common programming languages you will find me using most often is (`c`, `c++`, `python`, `kotlin`, `java`). In regards to platform preference, I don’t depend on a particular platform since I am fine with developing on Mac OS, Windows 10, Chromebook, and any Linux variant. My favorite of them all would have to be the Raspberry PI, I like them for being robust, reasonably efficient, and being able to fit in small places.
 
 ## Contact me
 
 * * *
 
-You may find that I have a number of ways that you can contact
-me. All of these methods happen to be listed on my blog
-[Mike's Visual Cube](https://mikebrockus.code.blog/contact-us/).
+You may find that I have some platforms in which you can follow me and stay updated on what I’m working on.
 
-Second option would be to join me on [MeWe](https://mewe.com/i/michaelbrockus)
-and see what i'm up to.
+- facebook: [michael.brockus.555](https://m.facebook.com/#!/michael.brockus.555)
+- medium: [michaelbrockus.medium](https://michaelbrockus.medium.com/)
+- linkedin: [michaelbrockus](https://www.linkedin.com/in/michael-brockus)
 
-Lastly don't forget to have a cup of virtual coffee. ☕🐇💻
+Lastly don't forget to have a cup of virtual coffee, and happy coding. ☕💻
 
 
 <!---
