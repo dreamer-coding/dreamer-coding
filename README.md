@@ -48,7 +48,7 @@ efficient, and being able to fit in small places.
 
 ## Certified
 
-### Linkedin learning, Banning, CA
+### Linkedin learning
 - 2018 - PRESENT
 - Become a Software Developer - 7/7/2020
 - Become a C++ Developer - 11/18/2018
