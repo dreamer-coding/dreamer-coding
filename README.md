@@ -46,6 +46,24 @@ Chromebook, and any Linux variant. My favorite of them all would
 have to be the Raspberry PI, I like them for being robust, reasonably
 efficient, and being able to fit in small places.
 
+## Certified
+
+### Linkedin learning, Banning, CA
+- 2018 - PRESENT
+- Become a Software Developer - 7/7/2020
+- Become a C++ Developer - 11/18/2018
+- Advance Your C++ Skills -  9/26/2020
+- Develop with C++ - 9/26/2020
+- Become a Python Developer - 5/8/2020
+- Advance Your Skills in Python - 10/19/2020
+- Become a Java Programmer - 6/22/2020
+- Agile Software Developer - 7/8/2020
+- Succeed as a Remote Software Developer - 4/3/2020
+- Become an Android Mobile App Developer - 5/28/2019
+- Succeed as a Remote Software Developer - 4/3/2020
+- Become a Docker Administrator - 12/28/2019
+- Developing and Delivering Software with Docker
+
 ## Contact me
 
 * * *
