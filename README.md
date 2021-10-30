@@ -62,7 +62,7 @@ efficient, and being able to fit in small places.
 - Become an Android Mobile App Developer - 5/28/2019
 - Succeed as a Remote Software Developer - 4/3/2020
 - Become a Docker Administrator - 12/28/2019
-- Developing and Delivering Software with Docker
+- Developing and Delivering Software with Docker - 12/26/2019
 
 ## Contact me
 
