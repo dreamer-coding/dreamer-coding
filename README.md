@@ -30,10 +30,15 @@ languages you will find me using most often is (`c`, `c++`,
 `cs` `python`, `kotlin`, `java`), not only that I’m open to
 learning new skills on the spot.
 
-For fun I like solve problems because I found that solving
-puzzles is my forte as I love to solve problems and provide
-solutions that may be novel, functional, and streamlined. My
-favorite site to solve problems on is HackerRank.
+For fun I like solve problems because I found that solving puzzles
+is my forte as I love to solve problems and provide solutions that
+may be novel, functional, and streamlined, my favorite site to solve
+problems on is HackerRank. Another fun thing I like to do is run a
+fun little organization pipeline we’re applications are implemented
+with features concealed in there own modules, libraries are stored
+in the [Hyper Ram project](https://github.com/hyper-ram) while
+applications are in the [Mike’s Visual Cube](https://github.com/mikes-visual-cube)
+project.
 
 In regards to platform preference, I don’t depend on a particular
 platform since I am fine with developing on Mac OS, Windows 10,
