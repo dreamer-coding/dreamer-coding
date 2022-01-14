@@ -56,11 +56,15 @@ efficient, and being able to fit in small places.
 
 * * *
 
+You may find that the project has a community in which you
+can keep up to date on the latest features, apps being developed and news. Simply done by
+joining on [Reddit](https://www.reddit.com/r/miok/)
+
 You may find that I have some platforms in which you can follow me and stay updated on what I’m working on.
 
-- facebook: [michael.brockus.555](https://m.facebook.com/#!/michael.brockus.555)
-- medium: [michaelbrockus.medium](https://michaelbrockus.medium.com/)
-- linkedin: [michaelbrockus](https://www.linkedin.com/in/michael-brockus)
+- mewe: [Michael Gene Brockus](https://mewe.com/i/michaelbrockus)
+- facebook: [Michael Gene Brockus](https://michaelbrockus.medium.com/)
+- linkedin: [Michael Gene Brockus](https://www.linkedin.com/in/michael-brockus)
 
 Lastly don't forget to have a cup of virtual coffee, and happy coding. ☕💻
 
