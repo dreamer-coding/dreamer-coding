@@ -24,8 +24,8 @@ may be novel, functional, and streamlined, my favorite site to solve
 problems on is HackerRank. Another fun thing I like to do is run a
 fun little organization pipeline we’re applications are implemented
 with features concealed in there own modules, libraries are stored
-in the [Hyper Ram project](https://github.com/hyper-ram) while
-applications are in the [Mike’s Visual Cube](https://github.com/mikes-visual-cube)
+in the [Miok modules](https://github.com/miok-modules) while
+applications are in the [Miok](https://github.com/miok-hub)
 project.
 
 In regards to platform preference, I don’t depend on a particular
