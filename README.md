@@ -2,18 +2,6 @@
 
 ## About
 
-I work at an Amazon fulfillment center as a Amazon
-learning ambassador where I am maintaining expert-level
-knowledge in all production departments; evaluate and
-improves processes within work areas; refine learning
-tools and techniques across the fulfillment center;
-assists in measuring the effectiveness of learning;
-measure impact of development efforts; improve associates’
-job-related skills. As a warehouse associate I am packing
-boxes for shipment, sorting items into chutes, clearing
-jammed conveyor belts, and water spidering supplies to
-all of the packers.
-
 I’m a fan of the Kanban methodology which is a lean method
 to manage and improve work across human systems. This
 approach aims to manage work by balancing demands with
