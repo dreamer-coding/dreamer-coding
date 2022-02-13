@@ -62,7 +62,6 @@ joining on [Reddit](https://www.reddit.com/r/miok/)
 
 You may find that I have some platforms in which you can follow me and stay updated on what I’m working on.
 
-- mewe: [Michael Gene Brockus](https://mewe.com/i/michaelbrockus)
 - facebook: [Michael Gene Brockus](https://michaelbrockus.medium.com/)
 - linkedin: [Michael Gene Brockus](https://www.linkedin.com/in/michael-brockus)
 
