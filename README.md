@@ -56,17 +56,15 @@ efficient, and being able to fit in small places.
 
 * * *
 
-You may find that the project has a community in which you
-can keep up to date on the latest features, apps being developed and news. Simply done by
-joining on [Reddit](https://www.reddit.com/r/miok/)
+If you want to contact me and have a few questions
+regarding the solutions or learning materials I've
+kindly provided for the general public you can write
+me a letter, my Gmail is <michaelbrockus@gmail.com>.
 
-You may find that I have some platforms in which you can follow me and stay updated on what I’m working on.
-
-- facebook: [Michael Gene Brockus](https://michaelbrockus.medium.com/)
-- linkedin: [Michael Gene Brockus](https://www.linkedin.com/in/michael-brockus)
+You may find that I have some social media platforms
+in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/michael_gene_brockus/)
 
 Lastly don't forget to have a cup of virtual coffee, and happy coding. ☕💻
-
 
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
