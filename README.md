@@ -15,7 +15,7 @@ process when requested.
 I am familiar with a vast range of programming languages and
 employ them on the spot; however, the most common programming
 languages you will find me using most often is (`c`, `c++`,
-`cs` `python`, `kotlin`, `java`), not only that I’m open to
+`d` `python`, `kotlin`, `java`), not only that I’m open to
 learning new skills on the spot.
 
 For fun I like solve problems because I found that solving puzzles
