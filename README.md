@@ -2,15 +2,16 @@
 
 ## About
 
-I’m a fan of the Kanban methodology which is a lean method
-to manage and improve work across human systems. This
-approach aims to manage work by balancing demands with
-available capacity, and by improving the handling of
-system-level bottlenecks. Work items are visualized to
-give participants a view of progress and process, from
-start to finish—usually via a Kanban board. Work is pulled
-as capacity permits, rather than work being pushed into the
-process when requested.
+I’m a pashonet software developer who aspires to work on large
+scale projects, competitively learning new tech and apply new
+skills whenever I can, I’m a fan of the Kanban methodology which
+is a lean method to manage and improves work across human systems.
+
+In regards to platform preference, I don’t depend on a particular
+platform since I am fine with developing on Mac OSX, Windows 10,
+Chromebook, and any Linux variant. My favorite of them all would
+have to be the Raspberry PI, I like them for being robust,
+reasonably efficient, and being able to fit in small places.
 
 I am familiar with a vast range of programming languages and
 employ them on the spot; however, the most common programming
@@ -18,21 +19,6 @@ languages you will find me using most often is (`c`, `c++`,
 `d` `python`, `kotlin`, `java`), not only that I’m open to
 learning new skills on the spot.
 
-For fun I like solve problems because I found that solving puzzles
-is my forte as I love to solve problems and provide solutions that
-may be novel, functional, and streamlined, my favorite site to solve
-problems on is HackerRank. Another fun thing I like to do is run a
-fun little organization pipeline we’re applications are implemented
-with features concealed in there own modules, libraries are stored
-in the [Miok modules](https://github.com/miok-modules) while
-applications are in the [Miok](https://github.com/miok-hub)
-project.
-
-In regards to platform preference, I don’t depend on a particular
-platform since I am fine with developing on Mac OS, Windows 10,
-Chromebook, and any Linux variant. My favorite of them all would
-have to be the Raspberry PI, I like them for being robust, reasonably
-efficient, and being able to fit in small places.
 
 ## Certified
 
