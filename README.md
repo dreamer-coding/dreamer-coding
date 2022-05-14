@@ -2,24 +2,15 @@
 
 ## About
 
-I’m a passionate  software developer who aspires to work on
-large scale projects, competitively learning new tech and
-apply new skills whenever I can, I’m a fan of the Kanban
-methodology which is a lean method to manage and improves
-work across systems.
+I’m a passionate, team oriented, software developer
+who aspires to work on large scale projects, learning
+new tech and applying new skills whenever I can. I’m
+a fan of the Kanban methodology which is a lean method
+to manage and improves work across systems.
 
-In regards to platform preference, I don’t depend on a
-particular platform since I am fine with developing on Mac
-OSX, Windows 10, Chromebook, and any Linux variant. My
-favorite of them all would have to be the Raspberry PI, I
-like them for being robust, reasonably efficient, and being
-able to fit in small places.
-
-I am familiar with a vast range of programming languages and
-employ them on the spot; however, the most common programming
-languages you will find me using most often is (`c`, `c++`,
-`d` `python`, `kotlin`, `java`), not only that I’m open to
-learning new skills on the spot.
+I have developed on MacOS, Linux, Windows, Chromebook
+as well as Raspberry PI. I like Raspberry PI a lot as
+it is robust, reasonably efficient and small.
 
 
 ## Certified
