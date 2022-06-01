@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Brockus you can call me Mike.
+- 👋 Hi, I’m Michael Gene Brockus you can call me Mike.
 
 ## About
 
@@ -31,19 +31,16 @@ it is robust, reasonably efficient and small.
 - Become a Docker Administrator - 12/28/2019
 - Developing and Delivering Software with Docker - 12/26/2019
 
+### UCSD
+
+*TODO*
+
 ## Contact me
 
 * * *
 
-If you want to contact me and have a few questions
-regarding the solutions or learning materials I've
-kindly provided for the general public you can write
-me a letter, my Gmail is <michaelbrockus@gmail.com>.
-
 You may find that I have some social media platforms
-in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/michael_gene_brockus/)
-
-Lastly don't forget to have a cup of virtual coffee, and happy coding. ☕💻
+in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/troglobyte_coder/)
 
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
