@@ -2,15 +2,15 @@
 
 ## About
 
-I’m a passionate, team oriented, software developer
-who aspires to work on large scale projects, learning
-new tech and applying new skills whenever I can. I’m
-a fan of the Kanban methodology which is a lean method
-to manage and improves work across systems.
+I’m a passionate, team oriented, software developer who aspires to work on
+large-scale projects, learning new technologies, applying new skills and best
+practices whenever I can. I’m a fan of the Kanban methodology which is a
+lean method to manage and improves work across systems. Programming languages
+I like to use would be (`c`, `c++`, `c#`, `python`, `kotlin`).
 
-I have developed on MacOS, Linux, Windows, Chromebook
-as well as Raspberry PI. I like Raspberry PI a lot as
-it is robust, reasonably efficient and small.
+I have developed my software on macOS, Linux (Ubuntu, Debian, Fedora), Windows,
+Chromebook as well as Raspberry PI. I like Raspberry PI a lot as it is robust,
+reasonably efficient and small enough to fit anywhere on my workstation.
 
 
 ## Certified
@@ -33,7 +33,7 @@ it is robust, reasonably efficient and small.
 
 ### UCSD
 
-*TODO*
+- UCSD C/C++ Programming - xx/xx/xxxx
 
 ## Contact me
 
