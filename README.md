@@ -33,7 +33,8 @@ reasonably efficient and small enough to fit anywhere on my workstation.
 
 ### UCSD
 
-- UCSD C/C++ Programming - xx/xx/xxxx
+- UCSD C/C++ Programming - 08/24/2022
+- UCSD Python - "working on it"
 
 ## Contact me
 
