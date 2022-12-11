@@ -40,14 +40,14 @@ practices whenever I can. The programming languages I like to use the most is
 ### UCSD
 
 - UCSD C/C++ Programming - 08/24/2022
-- UCSD Python - "working on it"
+- UCSD Python Programming - "working on it"
 
 ## Contact me
 
 * * *
 
 You may find that I have some social media platforms
-in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/troglobyte_coder/)
+in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/troglodyte_coder/)
 
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
