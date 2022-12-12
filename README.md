@@ -46,8 +46,9 @@ use the most is c++ because I like a challenge.
 
 * * *
 
-You may find that I have some social media platforms
-in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/troglodyte_coder/)
+If you want to contact me and have a few questions
+regarding the solutions in the programming you can
+find a method on my [website](https://troglodytes.code.blog/contact/).
 
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
