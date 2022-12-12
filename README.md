@@ -4,19 +4,19 @@
 
 I'm an aspiring DevOps engineer that enjoys following a set of best
 practices that combines software development and IT operations into
-one streamlined system. What I like about it is that it aims to
-shorten the development life cycle and provide a continuous delivery
-with high quality software.
+one streamlined system. What I like about it is that it aims to shorten
+the development life cycle and provide a continuous delivery with
+high-quality software.
 
-I am actively designing, building and monitoring the health of (`c`,
-`c++`, `c#`, `python`) applications to assure that customers get
+I am actively designing, building, and monitoring the health of (`c`,
+`c++`, `c#`, `python`) applications to ensure that customers get a
 functional, robust, secure product out of the box so users don't end
 up being frustrated and leaving to find something else.
 
-I’m a passionate team oriented, software developer who aspires to work on
-large-scale projects, learning new technologies, applying new skills and best
-practices whenever I can. The programming languages I like to use the most is
-`c++` becuase I like a challenge.
+I’m a passionate team-oriented, software developer who aspires to work
+on large-scale projects, learning new technologies, applying new skills
+and best practices whenever I can. The programming language I like to
+use the most is c++ because I like a challenge.
 
 
 ## Certified
