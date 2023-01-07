@@ -2,7 +2,7 @@
 
 ## About
 
-I'm an aspiring DevOps engineer that enjoys following a set of best
+I'm an aspiring software engineer that enjoys following a set of best
 practices that combines software development and IT operations into
 one streamlined system. What I like about it is that it aims to shorten
 the development life cycle and provide a continuous delivery with
@@ -27,7 +27,7 @@ Computer Science, Associates
 ## Work Experience
 
 ### Crewman
-#### Braums | June 2022 - Present
+#### Braums | June 2022 - JAN 2023
 
 This has been interesting experience as I finished my studies for my C C++
 certification from UCSD, my role is to throw lids into one machine and feed
