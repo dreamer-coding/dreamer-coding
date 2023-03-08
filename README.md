@@ -85,7 +85,7 @@ development efforts; improve associates’ job-related skills.
 
 If you want to contact me and have a few questions
 regarding the solutions in the programming you can
-find a method on my [website](https://troglodytes.code.blog/contact/).
+find a method on my [website](https://trilobite.code.blog/contact/).
 
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
