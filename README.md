@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dreamer Gene Ridge Brockus you can call me Dreamer.
+- 👋 Hi, I’m Michael Gene Ridge Brockus you can call me Dreamer.
 
 ## About
 
@@ -9,7 +9,7 @@ the development life cycle and provide a continuous delivery with
 high-quality software.
 
 I am actively designing, building, and monitoring the health of (`c`,
-`c++`, `c#`, `python`) applications to ensure that customers get a
+`c++`, `c#`, `java`, `python`) applications to ensure that customers get a
 functional, robust, secure product out of the box so users don't end
 up being frustrated and leaving to find something else.
 
