@@ -1,33 +1,58 @@
-- 👋 Hi, I’m Michael Gene Ridge Brockus you can call me Dreamer.
+- 👋 Hi, I’m Michael Gene Brockus you can call me Dreamer.
 
-## About
-
-I'm an aspiring software engineer that enjoys following a set of best
-practices that combines software development and IT operations into
-one streamlined system. What I like about it is that it aims to shorten
-the development life cycle and provide a continuous delivery with
-high-quality software.
-
-I am actively designing, building, and monitoring the health of (`c`,
-`c++`, `c#`, `java`, `python`) applications to ensure that customers get a
-functional, robust, secure product out of the box so users don't end
-up being frustrated and leaving to find something else.
-
-I’m a passionate team-oriented, software developer who aspires to work
-on large-scale projects, learning new technologies, applying new skills
-and best practices whenever I can. The programming language I like to
-use the most is c++ because I like a challenge.
+## Objective:
+-----------------------
+Highly motivated and team-oriented freelance software developer, skilled in various programming languages including C, C++, C#, Python, Java, and SQL. Proficient in software engineering, database engineering, software mentoring, and developer operations. Dedicated to delivering top-quality solutions and fostering collaborative environments to drive project success.
 
 ## Education
-
+-----------------------
 University of California, San Diego (UCSD)
 Computer Science, Associates
 
+## Skills:
+-----------------------
+- Programming Languages: C, C++, C#, Python, Java, SQL
+- Software Engineering: Object-Oriented Design, Algorithms, Data Structures, Design Patterns
+- Database Engineering: Database Design, SQL Query Optimization, Database Management
+- Software Mentoring: Guiding and supporting junior developers, sharing best practices
+- Developer Operations (DevOps): Continuous Integration, Continuous Deployment (CI/CD), Automation, Docker
 
-## Work Experience
+## Experience:
+-----------------------
+Freelance Software Developer | Trilobite Coder | 10
+- Collaborated with diverse teams to develop custom software solutions tailored to client requirements.
+- Utilized C, C++, C#, Python, Java, and SQL to deliver efficient and high-quality code for various projects.
+- Designed and implemented robust database solutions, optimizing data retrieval and management.
+- Provided software mentoring, offering guidance and support to junior developers to enhance their skills and knowledge.
+- Implemented DevOps practices, streamlining development and deployment processes for faster project delivery.
 
+## Certifications:
+-----------------------
+- C/C++ Programming, University of San Diego, 2022
+- Python Programming, University of San Diego, 2023
+- Become a Software Developer, LinkedIn learning, 7/7/2020
+- Become a C++ Developer, LinkedIn learning, 11/18/2018
+- Advance Your C++ Skills, LinkedIn learning, 9/26/2020
+- Develop with C++, LinkedIn learning, 9/26/2020
+- Become a Python Developer, LinkedIn learning, 5/8/2020
+- Advance Your Skills in Python, LinkedIn learning, 10/19/2020
+- Become a Java Programmer, LinkedIn learning, 6/22/2020
+- Agile Software Developer, LinkedIn learning, 7/8/2020
+- Succeed as a Remote Software Developer, LinkedIn learning, 4/3/2020
+- Succeed as a Remote Software Developer, LinkedIn learning, 4/3/2020
+- Become a Docker Administrator LinkedIn learning, 12/28/2019
+- Developing and Delivering Software with Docker, LinkedIn learning, 12/26/2019
+  
+## Additional Information:
+-----------------------
+- Strong problem-solving and analytical skills.
+- Excellent team player with effective communication and collaboration abilities.
+- Proven track record of delivering successful projects within agreed timelines.
+
+## Work experience:
+-----------------------
 ### Crewman
-#### Braums | June 2022 - JAN 2023
+#### Braums | June 2022 - June 2023
 
 This has been interesting experience as I finished my studies for my C C++
 certification from UCSD, my role is to throw lids into one machine and feed
@@ -54,38 +79,6 @@ As a learning ambassador I maintain expert-level knowledge in all production dep
 evaluate and improves processes within work areas; refine learning tools and techniques
 across the FC; assists in measuring the effectiveness of learning; measure impact of
 development efforts; improve associates’ job-related skills.
-
-
-## Certified
-
-### Linkedin learning
-- 2018 - PRESENT
-- Become a Software Developer - 7/7/2020
-- Become a C++ Developer - 11/18/2018
-- Advance Your C++ Skills -  9/26/2020
-- Develop with C++ - 9/26/2020
-- Become a Python Developer - 5/8/2020
-- Advance Your Skills in Python - 10/19/2020
-- Become a Java Programmer - 6/22/2020
-- Agile Software Developer - 7/8/2020
-- Succeed as a Remote Software Developer - 4/3/2020
-- Become an Android Mobile App Developer - 5/28/2019
-- Succeed as a Remote Software Developer - 4/3/2020
-- Become a Docker Administrator - 12/28/2019
-- Developing and Delivering Software with Docker - 12/26/2019
-
-### UCSD
-
-- UCSD C/C++ Programming - 08/24/2022
-- UCSD Python Programming - "working on it"
-
-## Contact me
-
-* * *
-
-If you want to contact me and have a few questions
-regarding the solutions in the programming you can
-find a method on my [website](https://trilobite.code.blog/contact/).
 
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
