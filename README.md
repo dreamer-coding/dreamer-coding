@@ -26,6 +26,24 @@ Freelance Software Developer | Trilobite Coder | 10
 - Provided software mentoring, offering guidance and support to junior developers to enhance their skills and knowledge.
 - Implemented DevOps practices, streamlining development and deployment processes for faster project delivery.
 
+## Project Highlights:
+-----------------------
+**[Trilobite XUnit Test]**
+- Description: That test framework you wish you had when you started learning C. Has unit testing, UI testing, UX testing, AI testing, benchmarks, mocking, command-line interface, and much more.
+- Technologies Used: Written in C and C++, uses Meson build system.
+
+**[Trilobite Data]**
+- Description: That framework you wish you had when you started working with your data. Has stacks, maps, sets, beehive, linked DNA, queue, de queue, priority queue, string, and more to use.
+- Technologies Used: Written in C and C++, uses Meson build system.
+
+**[Trilobite Pixel]**
+- Description: That framework you wish you had when you started building those cool GUI apps. Allows 2D pixels, buttons, text boxs, and much more to see.
+- Technologies Used: Written in C and C++, uses Meson build system.
+
+**[Meson-UI]**
+- Description: That build GUI created for a modern build tool. Supports many general use cases and is a portable solution.
+- Technologies Used: Written in Python uses Tkinter for the GUI
+
 ## Certifications:
 -----------------------
 - C/C++ Programming, University of San Diego, 2022
