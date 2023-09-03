@@ -36,6 +36,10 @@ Freelance Software Developer | Trilobite Coder | 10
 - Description: That framework you wish you had when you started working with your data. Has stacks, maps, sets, beehive, linked DNA, queue, de queue, priority queue, string, and more to use.
 - Technologies Used: Written in C and C++, uses Meson build system.
 
+**[Trilobite Core]**
+- Description: That foundation framework with lots of essentials. Has has error handling, basic to complex types, file handling, cli processing and much more for a developer such as yourself.
+- Technologies Used: Written in C and C++, uses Meson build system.
+
 **[Trilobite Pixel]**
 - Description: That framework you wish you had when you started building those cool GUI apps. Allows 2D pixels, buttons, text boxs, and much more to see.
 - Technologies Used: Written in C and C++, uses Meson build system.
