@@ -2,7 +2,7 @@
 
 ## Objective:
 -----------------------
-Highly motivated and team-oriented freelance software developer, skilled in various programming languages including C, C++, C#, Python, Java, and SQL. Proficient in software engineering, database engineering, software mentoring, and developer operations. Dedicated to delivering top-quality solutions and fostering collaborative environments to drive project success.
+Experienced freelance software engineer with a strong focus on delivering robust and secure software solutions. Proficient in a variety of programming languages, including C, C++, Java, Python, and SQL. Skilled in unit testing, test-driven development (TDD), behavior-driven development (BDD), data structures, algorithms, design patterns, and agile methodologies. Adept at using Git and GitHub for version control. Certified in C/C++ programming and Python programming from the University of San Diego.
 
 ## Education
 -----------------------
@@ -11,7 +11,7 @@ Computer Science, Associates
 
 ## Skills:
 -----------------------
-- Programming Languages: C, C++, C#, Python, Java, SQL
+- Programming Languages: C, C++, Python, Java, SQL
 - Software Engineering: Object-Oriented Design, Algorithms, Data Structures, Design Patterns
 - Database Engineering: Database Design, SQL Query Optimization, Database Management
 - Software Mentoring: Guiding and supporting junior developers, sharing best practices
