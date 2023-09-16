@@ -21,7 +21,7 @@ Computer Science, Associates
 -----------------------
 Freelance Software Developer | Trilobite Coder | 10
 - Collaborated with diverse teams to develop custom software solutions tailored to client requirements.
-- Utilized C, C++, C#, Python, Java, and SQL to deliver efficient and high-quality code for various projects.
+- Utilized C, C++, Python, Java, and SQL to deliver efficient and high-quality code for various projects.
 - Designed and implemented robust database solutions, optimizing data retrieval and management.
 - Provided software mentoring, offering guidance and support to junior developers to enhance their skills and knowledge.
 - Implemented DevOps practices, streamlining development and deployment processes for faster project delivery.
