@@ -12,17 +12,17 @@ My GitHub profile is a showcase of my work, contributions, and projects. I'm com
 
 ## Get to Know Me Better
 
-For more information about me and my journey as a software engineer, please visit my [Trilobite Coder About Page](https://trilobite.code.blog/about) to learn more. You'll find a more in-depth look at my background, experiences, and aspirations.
+For more information about me and my journey as a software engineer, please visit my [Trilobite Coder About Page](https://trilobite.home.blog/about) to learn more. You'll find a more in-depth look at my background, experiences, and aspirations.
 
 ## Connect with Me
 
-If you'd like to get in touch, collaborate on projects, or just have a chat, feel free to reach out to me through my GitHub account or my contact details on the [Trilobite Coder Contact Page](https://trilobite.code.blog/about). I'm always open to new opportunities and exciting collaborations!
+If you'd like to get in touch, collaborate on projects, or just have a chat, feel free to reach out to me through my GitHub account or my contact details on the [Trilobite Coder Contact Page](https://trilobite.home.blog/about). I'm always open to new opportunities and exciting collaborations!
 
 Thanks for stopping by, and I look forward to connecting with you in the exciting world of software development. 😊
 
 ---
 
-**[Trilobite Coder](https://trilobite.code.blog)** | *Dedicated to Delivering Secure and Robust Software Solutions*
+**[Trilobite Coder](https://trilobite.home.blog)** | *Dedicated to Delivering Secure and Robust Software Solutions*
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
