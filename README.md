@@ -1,34 +1,51 @@
 - 👋 Hi, I’m Michael Gene Brockus you can call me Dreamer.
 
-# Welcome to Dr. Dreamer's GitHub 🚀
+# Welcome to the GitHub of Michael Gene Brockus (Dreamer) 🚀
 
-## About Me
+## Overview
 
-"As the Lead Engineer at Fossil Logistics, I am dedicated to fostering a team-oriented and innovative approach to software engineering. My primary focus is on delivering robust, high-quality code that not only meets but exceeds the expectations of our stakeholders and clients. With a passion for technology and a commitment to staying at the forefront of industry trends, I lead by example in creating software solutions that are not just functional, but also scalable, maintainable, and adaptive to evolving requirements.
-
-My journey in software engineering has been driven by a relentless pursuit of excellence, a love for problem-solving, and a commitment to continuous learning. I believe in the power of collaboration and open communication within a team, as it is through these dynamics that we can unlock the full potential of our collective skills.
-
-In this fast-paced and ever-changing technological landscape, I thrive on challenges and am fueled by the opportunity to contribute to cutting-edge projects. My goal is to lead a team that not only meets project goals and deadlines but also sets new standards for innovation and efficiency.
-
-I am excited about the future of software engineering and am committed to playing a pivotal role in shaping it. At Fossil Logistics, we don't just build software; we engineer solutions that stand the test of time, just like the fossils that inspired our name."
-
-## What You'll Find Here
-
-My GitHub profile is a showcase of my work, contributions, and projects. I'm committed to creating software that solves real-world problems and enhances the technology landscape. Whether it's web development, mobile apps, or open-source projects, you'll find a variety of code that reflects my dedication and passion for software engineering.
-
-## Get to Know Me Better
-
-For more information about me and my journey as a software engineer, please visit my [Fossil Logic About Page](https://fossillogic.com/about) to learn more. You'll find a more in-depth look at my background, experiences, and aspirations.
-
-## Connect with Me
-
-If you'd like to get in touch, collaborate on projects, or just have a chat, feel free to reach out to me through my GitHub account or my contact details on the [Fossil Logic Contact Page](https://fossillogic.com/contact). I'm always open to new opportunities and exciting collaborations!
-
-Thanks for stopping by, and I look forward to connecting with you in the exciting world of software development. 😊
+I am a dedicated software engineer with a strong emphasis on teamwork, a security-first mindset, and a commitment to quality. Whether it's embedded systems or general software development, I prioritize collaboration and communication to contribute effectively to impactful projects.
 
 ---
 
+## General Development
+
+In the realm of general software development, I bring a diverse skill set and a passion for innovation. My expertise includes:
+
+- **Programming Languages:** Proficiency in Rust, Objective-C, Java, Cython, Python, C, and C++.
+- **Software Architecture:** Designing robust and scalable applications.
+- **Database Design:** Ensuring efficient data storage and retrieval.
+- **Full-Stack Development:** Creating user-friendly and responsive web and mobile applications.
+- **Continuous Learning:** Commitment to staying updated with the latest technologies and best practices.
+
+---
+
+## Embedded Development
+
+When it comes to embedded development, I possess a deep understanding of programming microcontrollers and creating efficient, low-level code. My specialization includes:
+
+- **Languages:** Expertise in C and C++.
+- **Optimization:** Optimizing code for resource-constrained environments.
+- **Firmware Development:** Developing reliable and secure firmware for various embedded systems.
+- **Hardware Interaction:** Working with sensors, actuators, and other hardware components.
+- **Problem-Solving:** Tackling unique challenges posed by embedded development projects with attention to detail.
+
+---
+
+## Experimental Work
+
+I have a proactive approach to innovation, as evidenced by my involvement in experimental projects such as:
+
+- **Jellyfish AI:** Exploring artificial intelligence algorithms to enhance user experiences and streamline processes.
+- **Blue CrabDB:** Experimenting with database design and optimization techniques to improve data storage and retrieval efficiency.
+- **PixelUI:** Showcasing creativity in designing intuitive and visually appealing user interfaces with a focus on usability and accessibility.
+
+---
+
+Feel free to reach out if you're interested in collaborating or learning more about my work!
+
 **[Fossil Logic](https://fossillogic.com)** | *Dedicated to Delivering Secure and Robust Software Solutions*
+
 <!---
 michaelbrockus/michaelbrockus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
