@@ -1,56 +1,57 @@
 ### Michael Gene Brockus (Dreamer) - GitHub Profile
 
-Welcome to my GitHub profile! I am Michael Gene Brockus, also known as Dreamer. As a passionate freelance developer at Fossil Logic, I specialize in creating custom software solutions that push the boundaries of technology.
+Welcome to my GitHub profile! I am Michael Gene Brockus, also known as Dreamer. As a passionate freelance developer at Fossil Logic, I specialize in building efficient, secure, and scalable software solutions.
 
-**Fossil Logic**: [Fossil Logic](https://fossillogic.com/)
+**Fossil Logic**:  [Fossil Logic](https://fossillogic.com/)
+**Personal Blog**: [My Blog](https://michaelbrockus.com/)
 
 ---
 
 ### About Me
 
-I am a versatile software developer with expertise in C/C++, Python, Kotlin for Android development, and SQL. My passion lies in developing robust, efficient, and secure applications that cater to the diverse needs of clients and the tech community. At Fossil Logic, I contribute to various open source projects, working collaboratively to drive innovation and technological excellence.
+I am a versatile software developer with deep expertise in **C, C++, Python, SQL**, and **CrabQL databases**. My focus is on developing high-performance, secure, and maintainable software. With a **security-first mindset**, I am also proficient in **Linux system administration**, ensuring robust and resilient software deployments.
 
 ### Skills
 
-- **C/C++ Programming**: Proficient in developing high-performance and efficient software solutions.
-- **Python Development**: Experienced in creating versatile applications ranging from web development to data analysis.
-- **Kotlin for Android**: Skilled in building intuitive and seamless mobile applications for the Android platform.
-- **SQL Database Solutions**: Adept at managing and optimizing databases for various applications.
-- **Software Consulting**: Offering expert advice to optimize software projects and workflows.
-- **Code Review and Optimization**: Ensuring code quality and performance through meticulous reviews and optimizations.
-- **Quality Assurance and Testing**: Implementing rigorous testing methodologies to deliver reliable software.
-- **Project Management**: Managing projects efficiently from planning to deployment.
-- **Security Solutions**: Ensuring applications adhere to security best practices and compliance requirements.
-- **Documentation and Knowledge Transfer**: Providing comprehensive documentation and facilitating smooth knowledge transfer.
+- **Systems Programming (C/C++)**: Developing efficient and scalable libraries, tools, and system-level applications.
+- **Python Development**: Crafting robust and maintainable applications, from scripting to large-scale system integrations.
+- **Database Expertise (SQL, CrabQL)**: Designing, optimizing, and managing relational and graph-based databases.
+- **Linux System Administration**: Configuring, securing, and maintaining Linux environments with a focus on security best practices.
+- **Security-First Development**: Implementing secure coding practices and threat mitigation strategies.
+- **Code Optimization & Review**: Ensuring performance, readability, and maintainability of codebases.
+- **Quality Assurance & Testing**: Developing comprehensive test suites for robust software validation.
+- **Project Management**: Leading development projects with structured workflows and agile methodologies.
+- **Technical Documentation**: Writing clear and concise documentation to facilitate knowledge transfer and maintainability.
 
 ### Fossil Logic Projects
 
-As part of Fossil Logic, I actively contribute to a variety of open source projects, specializing in C/C++, Python, Kotlin for Android, and SQL. Some of the key projects include:
+At Fossil Logic, I contribute to open-source projects that emphasize **performance, security, and reliability**:
 
-- **C/C++ Libraries and Tools**: Developing high-performance libraries and utilities to enhance development workflows.
-- **Python Applications and Frameworks**: Creating versatile applications and frameworks for various use cases.
-- **Android Kotlin Applications**: Building intuitive and seamless mobile applications for Android users.
-- **SQL Database Management**: Optimizing databases to ensure efficient data handling and storage.
+- **C/C++ Systems Libraries**: Portable, high-performance libraries for low-level and system programming.
+- **Python Development**: Automation, tooling, and application frameworks.
+- **SQL & CrabQL Database Solutions**: Efficient database handling, query optimization, and data-driven applications.
+- **Security & Infrastructure Tools**: Secure coding frameworks and system administration utilities for Linux environments.
 
-Explore these projects on the Fossil Logic GitHub organization page to see how we bring cutting-edge solutions to life and drive progress in the software development industry.
+Explore Fossil Logic's projects to see how we push the boundaries of software development.
 
 ### Get In Touch
 
-I am always open to collaboration and discussion. Whether you have questions, ideas, or just want to connect, feel free to reach out:
+I am always open to collaboration and discussion. Feel free to reach out:
 
-- **Email**: michaelbrockus@fossillogic.com
-- **GitHub Issues**: Use the issue tracker on my repositories
-- **LinkedIn**: [Michael Gene Brockus on LinkedIn](https://www.linkedin.com/in/michael-genebrockus)
+- **Email**: michaelbrockus@gmail.com
+- **GitHub Issues**: Engage in discussions on my repositories.
+- **LinkedIn**: [Michael Gene Brockus on LinkedIn](https://www.linkedin.com/in/dreamer-coding/)
+- **Facebook**: [Michael Gene Brockus on LinkedIn](https://www.facebook.com/dreamer.coding)
 
 ### Contributions
 
-I believe in the power of open source and community. If you are interested in contributing to any of my projects or the Fossil Logic projects, here’s how you can get involved:
+I believe in the power of open source and community. Here’s how you can contribute:
 
 - Fork the repositories
 - Submit pull requests
-- Participate in discussions and provide feedback
-- Share your expertise and insights
+- Engage in issue discussions and provide feedback
+- Share insights and collaborate on innovative solutions
 
 ### Thank You
 
-Thank you for visiting my GitHub profile. Let's work together to create innovative and impactful software solutions that make a difference in the world of technology.
+Thank you for visiting my GitHub profile. Let’s collaborate to build impactful and secure software solutions that make a difference in the world of technology.
