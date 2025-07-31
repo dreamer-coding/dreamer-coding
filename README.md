@@ -9,22 +9,33 @@ Welcome to my GitHub! I'm **Michael Gene Brockus**, also known as **Dreamer**, a
 
 ## 🧠 About Me
 
-I specialize in building intelligent, transparent, and secure software systems using **C, C++, Python, SQL**, and **CrabQL**. My work focuses on **trust-critical**, **hardware-close**, and **audit-capable** environments, where **efficiency**, **traceability**, and **integrity** are non-negotiable.
+I specialize in building intelligent, transparent, and secure software systems using **C, C++, Python, SQL**, and **CrabQL**. My work focuses on **trust-critical**, **hardware-close**, and **audit-capable** environments, where **efficiency**, **traceability**, and **integrity** are non-negotiable. Whether developing AI frameworks like **Jellyfish** and **Truthful Intelligence (TI)** or designing scalable database engines such as **Blue Crab**, I emphasize creating software that can withstand rigorous scrutiny and deliver consistent, verifiable results.
 
-I believe in building tools that are not only powerful but also explainable—where data, logic, and outcomes can be verified and reasoned about by humans.
+I believe in building tools that are not only powerful but also explainable—where data, logic, and outcomes can be verified and reasoned about by humans. This means embedding audit trails, leveraging cryptographic hashes, and designing self-reflective algorithms that reveal their decision-making process. My goal is to empower developers, administrators, and end-users alike with systems that promote trust through transparency and enforce security by design.
+
+In addition to core software development, I integrate secure system administration and infrastructure practices to ensure robust deployment environments. From bare-metal Linux configurations to hardened runtime security and fault-tolerant data management, my approach combines low-level precision with high-level accountability.
 
 ---
 
 ## 🔧 Skills Overview
 
-- **Systems Programming (C/C++)**: Embedded AI, kernel-like libraries, platform abstractions.
-- **AI & Language Tech**: Truthful Intelligence, input normalization, blockchain-like memory, tone/emotion/sarcasm filters.
-- **Python & CLI Tools**: Automation, testing frameworks, developer tools.
-- **SQL/CrabQL**: Graph-relational hybrid database design and optimization.
-- **Security-First Engineering**: Hardened runtime logic, trust chains, sandboxing, validation pipelines.
-- **Test Frameworks**: Smart testing, sarcasm-aware test output, block-level audit trails.
-- **Cross-Platform GUI & Graphics**: Hardware-accelerated OpenGL GUI layer (OpenCUBE).
-- **Linux Admin & DevOps**: Bare-metal installs, secure configuration, system-level utilities.
+- **Systems Programming (C/C++)**: Embedded AI, kernel-like libraries, platform abstractions.  
+- **AI & Language Tech**: Truthful Intelligence, input normalization, blockchain-like memory, tone/emotion/sarcasm filters.  
+- **Python & CLI Tools**: Automation, testing frameworks, developer tools.  
+- **SQL/CrabQL**: Graph-relational hybrid database design and optimization.  
+- **Security-First Engineering**: Hardened runtime logic, trust chains, sandboxing, validation pipelines.  
+- **Test Frameworks**: Smart testing, sarcasm-aware test output, block-level audit trails.  
+- **Cross-Platform GUI & Graphics**: Hardware-accelerated OpenGL GUI layer (OpenCUBE).  
+- **Linux Administration & DevOps**:  
+  - Bare-metal installations and custom OS configurations.  
+  - Secure system hardening, firewall and access controls.  
+  - Shell scripting and automation for system maintenance.  
+  - Service orchestration and monitoring on Linux servers.  
+  - Configuration management and infrastructure as code (IaC) practices.  
+  - Troubleshooting, performance tuning, and log analysis.  
+  - Networking fundamentals, VPNs, and firewall setup.  
+  - Containerization and lightweight virtualization (where applicable).  
+- **Project Management & Documentation**: Leading agile workflows, writing technical specs, and maintaining comprehensive documentation.
 
 ---
 
