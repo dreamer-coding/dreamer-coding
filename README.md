@@ -1,146 +1,67 @@
-# 🌊 Michael Gene Brockus (Dreamer) – GitHub Profile
+# 🌊 Michael Gene Brockus (Dreamer)
 
-Welcome to my GitHub! I'm **Michael Gene Brockus**, also known as **Dreamer**, a systems-focused developer and founder of **Fossil Logic**, where I create lightweight, secure, and forward-looking software—often from the metal up.
+Welcome to my GitHub! I’m **Michael Gene Brockus**, also known as **Dreamer** — a systems-focused developer with both **blue-collar grit** and **white-collar precision**.  
+I’ve worked in production, logistics, and technology, and I bring that same discipline and adaptability into everything I build.  
 
-- 🔗 **Fossil Logic**: [fossillogic.com](https://fossillogic.com/)
-- ✍️ **Personal Blog**: [michaelbrockus.com](https://michaelbrockus.com/)
+I’m the creator of **Fossil Logic**, an open-source initiative dedicated to **secure, auditable, and explainable software**, and **Fossil Learning**, an educational project for developers who want to understand systems from the metal up.  
+
+- 🔗 **Fossil Logic:** [fossillogic.com](https://fossillogic.com/)  
+- 📘 **Fossil Learning:** Part of the Fossil Logic ecosystem  
+- ✍️ **Personal Blog:** [michaelbrockus.com](https://michaelbrockus.com/)  
 
 ---
 
 ## 🧠 About Me
 
-I specialize in building intelligent, transparent, and secure software systems using **C, C++, Python, SQL**, and **CrabQL**. My work focuses on **trust-critical**, **hardware-close**, and **audit-capable** environments, where **efficiency**, **traceability**, and **integrity** are non-negotiable. Whether developing AI frameworks like **Jellyfish** and **Truthful Intelligence (TI)** or designing scalable database engines such as **Blue Crab**, I emphasize creating software that can withstand rigorous scrutiny and deliver consistent, verifiable results.
+I build **transparent and trustworthy software systems** using **C**, **C++**, **Python**, and **CrabQL** — always with a focus on **traceability**, **security**, and **clarity**.  
+From **AI frameworks** and **lightweight databases** to **low-level runtime systems**, my work is driven by the belief that software should be **understandable, verifiable, and durable**.
 
-I believe in building tools that are not only powerful but also explainable—where data, logic, and outcomes can be verified and reasoned about by humans. This means embedding audit trails, leveraging cryptographic hashes, and designing self-reflective algorithms that reveal their decision-making process. My goal is to empower developers, administrators, and end-users alike with systems that promote trust through transparency and enforce security by design.
-
-In addition to core software development, I integrate secure system administration and infrastructure practices to ensure robust deployment environments. From bare-metal Linux configurations to hardened runtime security and fault-tolerant data management, my approach combines low-level precision with high-level accountability.
-
----
-
-## 🔧 Skills Overview
-
-- **Systems Programming (C/C++)**: Embedded AI, kernel-like libraries, platform abstractions.  
-- **AI & Language Tech**: Truthful Intelligence, input normalization, blockchain-like memory, tone/emotion/sarcasm filters.  
-- **Python & CLI Tools**: Automation, testing frameworks, developer tools.  
-- **SQL/CrabQL**: Graph-relational hybrid database design and optimization.  
-- **Security-First Engineering**: Hardened runtime logic, trust chains, sandboxing, validation pipelines.  
-- **Test Frameworks**: Smart testing, sarcasm-aware test output, block-level audit trails.  
-- **Cross-Platform GUI & Graphics**: Hardware-accelerated OpenGL GUI layer (OpenCUBE).  
-- **Linux Administration & DevOps**:  
-  - Bare-metal installations and custom OS configurations.  
-  - Secure system hardening, firewall and access controls.  
-  - Shell scripting and automation for system maintenance.  
-  - Service orchestration and monitoring on Linux servers.  
-  - Configuration management and infrastructure as code (IaC) practices.  
-  - Troubleshooting, performance tuning, and log analysis.  
-  - Networking fundamentals, VPNs, and firewall setup.  
-  - Containerization and lightweight virtualization (where applicable).  
-- **Project Management & Documentation**: Leading agile workflows, writing technical specs, and maintaining comprehensive documentation.
+My experience ranges from **hands-on industrial work** — operating machinery, packing, and logistics — to **system architecture and embedded software engineering**.  
+That background gives me a rare perspective: I value both **practical efficiency** and **technical integrity**, and I build tools that reflect both worlds.
 
 ---
 
-## 🧩 Core Fossil Logic Projects
+## 🦴 Fossil Logic – Open Source Projects
 
-These are the flagship open-source technologies I architect and maintain:
+**Fossil Logic** is my personal open-source software initiative focused on **low-level systems**, **AI explainability**, **secure infrastructure**, and **auditable software design**.  
+I build intelligent technologies in **C**, **C++**, and **Python** with an emphasis on **traceability**, **minimal dependencies**, and **self-contained logic**.
 
-### 🧠 Jellyfish AI + Truthful Intelligence (TI)
-- Lightweight, blockchain-inspired AI library in pure C.
-- Focused on **traceable learning**, **tamper-resistant memory**, and **self-pruning behavior**.
-- Foundation of **Truthful Intelligence (TI)**: AI that explains itself, detects tone, filters deception, and reflects on past behavior.
+The mission is simple: to create software that is **efficient**, **reliable**, and **transparent** — helping developers and organizations trust the systems they depend on.
 
-### 🍕 Pizza Test
-- Smart testing framework tailored for **truth-critical systems**.
-- Handles tone analysis, sarcasm detection, fuzzy matching, leetspeak normalization, and more.
-- Plays a central role in testing **Jellyfish AI** and **ToFu logic chains**.
+At the core of Fossil Logic is the idea that software should balance **performance with accountability**.  
+Whether developing a **lightweight database**, **secure runtime**, or **interpretable AI**, I prioritize **clarity over complexity** and **robustness over shortcuts**.
 
-### 🧠 ToFu – Truthful Functions (Data Structures & Algorithms)
-- Core algorithmic layer for **Truthful Intelligence (TI)**.
-- Provides specialized **data structures** for logical blocks, memory chains, confidence maps, and validation paths.
-- Implements **reasoning algorithms** for transparent, auditable decision-making and self-reflection.
-- Powers TI's ability to trace logic, detect inconsistencies, and explain outcomes step-by-step.
-
-### 🦀 Blue Crab Database
-- Hybrid graph-relational engine using **CrabQL**.
-- Built for **auditability**, **flexibility**, and **runtime adaptability**.
-- Backend for **MyShell**, **NoShell**, and **TimeShell** structured data shells.
-
-### 🧪 Fossil Io – Intelligent I/O Processing
-- Secure and interpretable I/O stack built for human-AI interaction.
-- Features advanced filters: sarcasm detection, tone classification, leetspeak normalization, fake news identification, and grammar correction.
-- Enables **Jellyfish AI** to process, sanitize, and reason about input with integrity.
-- Core to **Truthful Intelligence (TI)** for assessing validity, confidence, and emotional tone.
-
-### 🛡️ Fossil Sys – Secure System Infrastructure
-- Lightweight system-layer tools and APIs for secure, low-level control.
-- Includes Linux utilities, memory-safe runtime support, CLI environments, and hardware introspection.
-- Provides the secure foundation for all Fossil Logic modules, including **Shark**, **Blue Crab**, and **OpenCUBE**.
-- Designed with **auditability**, **minimalism**, and **zero-external-dependency** principles.
-
-### 🧊 OpenCUBE
-- Cross-platform graphics and UI engine in C.
-- No external dependencies—abstracts OpenGL, GLM, GLEW into one unified platform.
-- Supports both 2D/3D with minimal, hardware-accelerated rendering.
-- Used for GUI tooling across Fossil Logic projects.
-
-### 🦈 Shark CLI
-- Powerful, cross-platform command-line interface for interacting with all Fossil Logic systems.
-- Supports configuration management, AI module introspection, database queries, and automated testing.
-- Designed for extensibility and deep integration with Jellyfish AI and Blue Crab.
-
-### 🐟 This CLI
-- Lightweight tool for managing Fossil Logic project workflows and environment setup.
-- Focused on developer productivity and rapid prototyping.
-- Handles build orchestration, dependency management, and environment diagnostics.
-
-### 🐠 Fish CLI
-- Specialized command-line tool for real-time monitoring and analysis of AI runtime behavior.
-- Provides interactive logs, performance metrics, and debugging interfaces for Jellyfish AI chains.
-
-### 🦀 Crabd CLI
-- Command-line utility for managing the Blue Crab database engine.
-- Supports schema migrations, data import/export, query execution, and audit trail inspection.
-
-### 🦀 CrabCTL
-- Administrative CLI for advanced control of Blue Crab clusters and database nodes.
-- Enables distributed database configuration, replication management, and health checks.
+Fossil Logic represents my ongoing effort to build a future where technology remains **lean**, **secure**, and **explainable** — empowering developers to build with confidence and users to interact with trust.
 
 ---
 
-## 🔍 How I Work
+### 📘 Fossil Learning
 
-- 🧬 Everything is **traceable**, **auditable**, and **explained**—whether it's logic flow or test results.
-- 🔐 **Security-first**, always—especially in input processing and AI learning behavior.
-- 🏗️ Custom-built tools from the ground up, with zero external dependencies when possible.
-- 📜 I write clean, intentional code with robust docs and tests to back it.
+To complement my development work, I created **Fossil Learning** — an educational initiative offering open-source tutorials, labs, and guides focused on **low-level programming**, **AI explainability**, and **secure software design**.
 
----
-
-## 🤝 Get In Touch
-
-I’m always open to building meaningful projects with thoughtful developers.
-
-- 📧 **Email**: michaelbrockus@gmail.com  
-- 🐙 **GitHub Issues**: Open a discussion on any project.  
-- 💼 **LinkedIn**: [Michael Gene Brockus](https://www.linkedin.com/in/dreamer-coding/)  
-- 🌐 **Facebook**: [Dreamer Coding](https://www.facebook.com/dreamer.coding)  
-- 🧵 **Threads**: [@dreamer.coding](https://www.threads.net/@dreamer.coding)
-- ✖️ **X (Twitter)**: [@dreamer_coding](https://x.com/dreamer_coding)
+Through practical examples and transparent explanations, Fossil Learning helps developers understand systems deeply, code responsibly, and adopt best practices for building **auditable**, **reliable**, and **trustworthy** software.
 
 ---
 
-## ❤️ Contributions Welcome
+## ⚙️ Skills Overview
 
-Open-source at Fossil Logic is built for transparency and community growth. You can:
-
-- 🌱 Fork and experiment
-- 🛠️ Submit PRs and bug reports
-- 💬 Join issue discussions
-- 🧠 Share ideas for making smarter, safer systems
+- **Languages:** C, C++, Python, SQL, CrabQL  
+- **Systems:** Linux, Embedded Development, Secure Infrastructure  
+- **AI & Data:** Truthful AI, Auditable ML, Git-like Data Chain Integrity  
+- **Tools:** Git, CLI Development, Cross-Platform Frameworks  
+- **Industry Experience:** Logistics, Manufacturing, Machine Operation  
+- **Core Strengths:** Reliability, Adaptability, Systems Thinking  
 
 ---
 
-## 🙏 Thanks for Stopping By
+## 💬 Philosophy
 
-Whether you’re curious about **AI you can trust**, **C-based innovation**, or **introspective testing**, I hope something here inspires you.
+I believe good software — like good work — should be **built to last**, **understandable by design**, and **accountable in practice**.  
+Whether I’m writing embedded code, tuning a production line, or designing an AI framework, I approach each task with the same principles:  
+**clarity, traceability, and purpose.**
 
-Let’s build software that *remembers*, *reasons*, and *respects* the truth.
+---
+
+🌐 **Website:** [https://fossillogic.com](https://fossillogic.com)  
+✍️ **Blog:** [https://michaelbrockus.com](https://michaelbrockus.com)  
+📧 **Email:** [michaelbrockus@gmail.com](mailto:michaelbrockus@gmail.com)
